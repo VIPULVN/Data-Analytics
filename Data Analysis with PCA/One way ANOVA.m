@@ -1,7 +1,3 @@
-%EE20MTECH14022_ENDSEM Submision
-
-%Question 1b
-
 %calculation of one way ANOVA
 mat = [10 9 5; 8 7 9; 9 8 8];
 [p,tb1,stats] =anova1(mat);
