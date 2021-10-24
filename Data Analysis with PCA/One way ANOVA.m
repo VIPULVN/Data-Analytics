@@ -2,12 +2,10 @@
 mat = [10 9 5; 8 7 9; 9 8 8];
 [p,tb1,stats] =anova1(mat);
 
-%% Solution of question 5
 
 year=[1 2 3 4 5 6 7]';
 catalyst=[5 8 10 15 18 22 30]';
 
-%Part5a
 %2D Scatter Plot
 Y=[year catalyst];
 figure(2);
