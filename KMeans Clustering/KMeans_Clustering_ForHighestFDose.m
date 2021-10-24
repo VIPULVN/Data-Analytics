@@ -203,7 +203,3 @@ silhouette(st,idx,'cityblock')
 %that K=2 is the index which gives minimum magnitude of  0.4026 (DB
 %crieteria). Hence, in case of higher doses, eucledian distance is more
 %preffered.
-
-
-%Submitted by
-%EE20MTECH14022
