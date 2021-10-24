@@ -1,6 +1,6 @@
 %KRUSKAL WALLIS ANALYSIS AND PLOT
 %In Part A, KW test has been carried out with 4 given machine samples for
-%the tutorial problem. Manual calulations have been attached with the same.
+%the problem.
 %Part B highlightes KW analysis for drugc and drugn data.
 %% Reading data for drugc, drugn and initialization of matrix.
 
